@@ -1,0 +1,15 @@
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\obj\Debug\net6.0\01022023.csproj.AssemblyReference.cache
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\obj\Debug\net6.0\01022023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\obj\Debug\net6.0\01022023.AssemblyInfoInputs.cache
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\obj\Debug\net6.0\01022023.AssemblyInfo.cs
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\obj\Debug\net6.0\01022023.csproj.CoreCompileInputs.cache
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\bin\Debug\net6.0\01022023.exe
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\bin\Debug\net6.0\01022023.deps.json
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\bin\Debug\net6.0\01022023.runtimeconfig.json
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\bin\Debug\net6.0\01022023.dll
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\bin\Debug\net6.0\01022023.pdb
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\obj\Debug\net6.0\01022023.dll
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\obj\Debug\net6.0\refint\01022023.dll
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\obj\Debug\net6.0\01022023.pdb
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\obj\Debug\net6.0\01022023.genruntimeconfig.cache
+C:\Users\Helmi.kangasmaa\Desktop\prpr\01022023\01022023\obj\Debug\net6.0\ref\01022023.dll
