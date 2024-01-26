@@ -6,4 +6,17 @@ public class Pony
 
     [JsonPropertyName("name")]
     public string Name { get; set; }
+
+    [JsonPropertyName("kind")]
+    public List<string> Kind { get; set; }
+
+    [JsonPropertyName("occupation")]
+    public string Occupation { get; set; }
+
+    [JsonPropertyName("alias")]
+    public string Alias { get; set; }
+
+    [JsonPropertyName("season")]
+    public string Season { get; set; }
 }
+
