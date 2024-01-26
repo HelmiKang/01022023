@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Helmi.kangasmaa\\Desktop\\prpr\\01022023\\01022023\\01022023.csproj": {}
+    "C:\\Users\\helmi.kangasmaa\\Desktop\\prpr\\01022023\\01022023\\01022023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Helmi.kangasmaa\\Desktop\\prpr\\01022023\\01022023\\01022023.csproj": {
+    "C:\\Users\\helmi.kangasmaa\\Desktop\\prpr\\01022023\\01022023\\01022023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Helmi.kangasmaa\\Desktop\\prpr\\01022023\\01022023\\01022023.csproj",
+        "projectUniqueName": "C:\\Users\\helmi.kangasmaa\\Desktop\\prpr\\01022023\\01022023\\01022023.csproj",
         "projectName": "01022023",
-        "projectPath": "C:\\Users\\Helmi.kangasmaa\\Desktop\\prpr\\01022023\\01022023\\01022023.csproj",
-        "packagesPath": "C:\\Users\\Helmi.kangasmaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Helmi.kangasmaa\\Desktop\\prpr\\01022023\\01022023\\obj\\",
+        "projectPath": "C:\\Users\\helmi.kangasmaa\\Desktop\\prpr\\01022023\\01022023\\01022023.csproj",
+        "packagesPath": "C:\\Users\\helmi.kangasmaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\helmi.kangasmaa\\Desktop\\prpr\\01022023\\01022023\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Helmi.kangasmaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\helmi.kangasmaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,12 +60,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

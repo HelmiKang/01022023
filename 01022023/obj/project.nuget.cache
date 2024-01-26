@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "a1PcqBk8I0jcJ48C0imHrcDgpQasUEST98G0pMLI6dKN/d+Igy1MW3PnUr6I+nRBflPQmtT2x7k+aAPnA5SKsQ==",
+  "dgSpecHash": "cGnHmhyGj/slq6SyLpgHXSyMrFmaSBTJz1jp88CUg7QswxaYRLj/sgqTa4svvJ4nw27/i88eUhsTpZqF6OyT7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Helmi.kangasmaa\\Desktop\\prpr\\01022023\\01022023\\01022023.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\helmi.kangasmaa\\Desktop\\prpr\\01022023\\01022023\\01022023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\helmi.kangasmaa\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\helmi.kangasmaa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\helmi.kangasmaa\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\helmi.kangasmaa\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
+    "C:\\Users\\helmi.kangasmaa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\helmi.kangasmaa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\helmi.kangasmaa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\helmi.kangasmaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
   "logs": []
 }
